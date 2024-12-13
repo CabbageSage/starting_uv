@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: your-project-name
+Version: 0.1.0
+Summary: project description
+Author-email: your-name <your-email@example.com>
+Maintainer-email: your-name <your-email@example.com>
+License: MIT License
+Project-URL: repository, your-repo-url
+Project-URL: homepage, your-project-site
+Keywords: xxx,xxx-toolkit
+Classifier: Topic :: Multimedia
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: beautifulsoup4>=4.12.3
+Requires-Dist: requests>=2.32.3
+Provides-Extra: network
+Requires-Dist: httpx[http2]>=0.27.2; extra == "network"
