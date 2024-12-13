@@ -1,12 +1,12 @@
 # 假如拿到一個使用 uv 設定的專案架構如下
 [project]
-name = "your-project-name"  # 必填
+name = "test_for_sage_to_play"  # 必填
 version = "0.1.0"  # 必填
 description = "project description"
 authors = [{ name = "CabbageSage", email = "geduozeng@gmail.com" }]
 maintainers = [{name = "CabbageSage", email = "geduozeng@gmail.com"}]
-urls.repository = "your-repo-url"
-urls.homepage = "your-project-site"
+urls.repository = "https://github.com/CabbageSage/starting_uv"
+urls.homepage = "https://github.com/CabbageSage/starting_uv"
 license = {text = "MIT License"}  # 也可以用檔案 license = { file = "LICENSE" }
 readme = "README.md"
 # 發布到 PyPI 的關鍵字和搜尋分類，可選

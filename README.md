@@ -6,12 +6,28 @@ Welcome to the Hello World project! This project is a simple demonstration of a 
 
 To get started with this project, clone the repository and follow the instructions in the relevant language directory.
 
-## Contributing
+## Prerequisites
 
-We welcome contributions! Please fork the repository and submit a pull request with your changes.
+Make sure you have the following software installed:
+- Python 3.x
+- pip
 
-## License
+## Installation
 
-This project is licensed under the MIT License.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/helloworld.git
+    cd helloworld
+    ```
 
-Happy coding!
+2. Install the required dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+## Running the Program
+
+To run the program, execute the following command:
+```sh
+python hello.py
+```

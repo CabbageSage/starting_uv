@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: your-project-name
+Name: test_for_sage_to_play
 Version: 0.1.0
 Summary: project description
 Author-email: CabbageSage <geduozeng@gmail.com>
 Maintainer-email: CabbageSage <geduozeng@gmail.com>
 License: MIT License
-Project-URL: repository, your-repo-url
-Project-URL: homepage, your-project-site
+Project-URL: repository, https://github.com/CabbageSage/starting_uv
+Project-URL: homepage, https://github.com/CabbageSage/starting_uv
 Keywords: xxx,xxx-toolkit
 Classifier: Topic :: Multimedia
 Classifier: Development Status :: 4 - Beta
